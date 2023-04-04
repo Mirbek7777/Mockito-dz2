@@ -1,4 +1,4 @@
-package main.java.ru.netology.patient.repository;
+package ru.netology.patient.repository;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 

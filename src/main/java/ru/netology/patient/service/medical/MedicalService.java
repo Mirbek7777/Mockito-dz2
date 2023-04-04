@@ -1,4 +1,4 @@
-package main.java.ru.netology.patient.service.medical;
+package ru.netology.patient.service.medical;
 
 import java.math.BigDecimal;
 

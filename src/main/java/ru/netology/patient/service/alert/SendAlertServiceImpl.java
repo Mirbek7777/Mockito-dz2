@@ -1,4 +1,4 @@
-package main.java.ru.netology.patient.service.alert;
+package ru.netology.patient.service.alert;
 
 public class SendAlertServiceImpl implements SendAlertService {
 

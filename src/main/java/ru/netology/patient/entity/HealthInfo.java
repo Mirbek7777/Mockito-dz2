@@ -1,4 +1,4 @@
-package main.java.ru.netology.patient.entity;
+package ru.netology.patient.entity;
 
 import java.math.BigDecimal;
 import java.util.Objects;
